@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="AccountService" />
+        <module name="Gateway" />
+        <module name="gs-serving-web-content" />
+        <module name="Lab (1)" />
+        <module name="Lab (2)" />
+        <module name="People" />
+        <module name="ReservationService" />
+        <module name="Seats" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="AccountService" target="1.8" />
+      <module name="Gateway" target="1.8" />
+      <module name="gs-serving-web-content" target="1.8" />
+      <module name="Lab" target="1.8" />
+      <module name="Lab (1)" target="1.8" />
+      <module name="Lab (2)" target="1.8" />
+      <module name="People" target="1.8" />
+      <module name="ReservationService" target="1.8" />
+      <module name="Seats" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

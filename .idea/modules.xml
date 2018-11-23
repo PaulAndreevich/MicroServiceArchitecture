@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ReservationService/AccountService.iml" filepath="$PROJECT_DIR$/ReservationService/AccountService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/Gateway.iml" filepath="$PROJECT_DIR$/Gateway/Gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lab.iml" filepath="$PROJECT_DIR$/Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/People/Lab (1).iml" filepath="$PROJECT_DIR$/People/Lab (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seats/Lab (2).iml" filepath="$PROJECT_DIR$/Seats/Lab (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/MicSer.iml" filepath="$PROJECT_DIR$/MicSer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/People/People.iml" filepath="$PROJECT_DIR$/People/People.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReservationService/ReservationService.iml" filepath="$PROJECT_DIR$/ReservationService/ReservationService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seats/Seats.iml" filepath="$PROJECT_DIR$/Seats/Seats.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Gateway/gs-serving-web-content.iml" filepath="$PROJECT_DIR$/Gateway/gs-serving-web-content.iml" />
+    </modules>
+  </component>
+</project>
